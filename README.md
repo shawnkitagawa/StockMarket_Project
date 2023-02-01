@@ -1,5 +1,7 @@
 # StockMarket_Project
 
+#Finish cleaning the income statement data and merge first and second data into one 2/1/23
+
 1. Clean the data
 2. SQL ( we would need to break into multiple csv files for the multiple visualization)
 3. Flask ( creating a website)
