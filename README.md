@@ -4,6 +4,8 @@
 
 
 1. Clean the data
+
+
 Income statement
 (Shawn Kitagawa)
 
